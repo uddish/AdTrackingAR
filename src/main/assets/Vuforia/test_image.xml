@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="rolex" size="6.000000 4.730990" />
+    <ImageTarget name="laptop" size="6.000000 9.319149" />
+    <ImageTarget name="car" size="6.000000 4.571429" />
+    <ImageTarget name="furniture" size="6.000000 9.957447" />
+    <ImageTarget name="pepsi_ad" size="6.000000 7.647059" />
+    <ImageTarget name="ar_image_two" size="6.000000 9.857142" />
+    <ImageTarget name="ar_image_one" size="6.000000 7.375000" />
+  </Tracking>
+</QCARConfig>
